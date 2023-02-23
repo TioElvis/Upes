@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "lib": ["ES2021.String"],
+    "target": "es6",
+    "module": "commonjs",
+    "outDir": "./dist",
+    "strict": true,
+    "esModuleInterop": true
+  }
+}
